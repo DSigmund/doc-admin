@@ -247,6 +247,7 @@ Show link
    ::
 
       http://some.example.com/handle?query=[% Data.Field1 | uri %]
+      Where Field1 is for example the name of the Dynamic Field
 
 Link for preview
    If filled in, this URL will be used for a preview which is shown when this link is hovered in ticket zoom. Please note that for this to work, the regular URL field above needs to be filled in, too.
@@ -309,6 +310,7 @@ Show link
    ::
 
       http://some.example.com/handle?query=[% Data.Field1 | uri %]
+      Where Field1 is for example the name of the Dynamic Field
 
 Link for preview
    If filled in, this URL will be used for a preview which is shown when this link is hovered in ticket zoom. Please note that for this to work, the regular URL field above needs to be filled in, too.
@@ -361,6 +363,7 @@ Show link
    ::
 
       http://some.example.com/handle?query=[% Data.Field1 | uri %]
+      Where Field1 is for example the name of the Dynamic Field
 
 
 Link for preview
